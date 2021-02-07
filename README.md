@@ -10,4 +10,4 @@ If you'll do some other mistake, then answer won't be showen.
 <img src="img/photo2.jpg" width="600px">
 
 For looking the work you should open file "main.html"  
-Or Just go to the link fo watch the video with animation: https://youtu.be/n4s0cQu0bSY
+Or Just go to the link for watch the video - how it works: https://youtu.be/h4bF1GP5n1Y
