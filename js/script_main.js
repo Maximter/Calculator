@@ -28,7 +28,7 @@ let answer = 0;
 
 output.onclick = function () {
     if (time == 1) {
-        input.innerHTML = " You didn't closed a bracket";
+        input.innerHTML = " You didn't close a bracket";
         time = 0;
     }
 
