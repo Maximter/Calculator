@@ -19,9 +19,8 @@ let divide = document.getElementById("divide");
 let brackets = document.getElementById("brackets");
 let point = document.getElementById("point");
 let output = document.getElementById("output");
-let time = 0;
-let mistake = 0;
 const π = 3.14; 
+let time = 0;
 let count = "";
 let answer = 0;
 
