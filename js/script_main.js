@@ -43,6 +43,7 @@ output.onclick = function () {
 clean_all.onclick = function () {
     input.innerHTML = "";
     count = "";
+    time = 0;
 }
 
 clean_last.onclick = function () {
